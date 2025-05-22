@@ -1,130 +1,93 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/archlinux.svg" width="100">
-</div>
-
-<h1 align="center">x5368x-Zenthrax</h1>
-<h3 align="center">Senior Linux Systems Architect</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linux-tux.svg" width="30">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/wayland.svg" width="30">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/zsh.svg" width="30">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/python.svg" width="30">
-</div>
 
----
-
-## 🔧 **Stack Tecnológico Profesional**
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/archlinux.svg" width="50"><br>
-      <strong>Arch Linux</strong><br>
-      Kernel Optimization<br>
-      System Tuning
-    </td>
-    <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hyprland.svg" width="50"><br>
-      <strong>Hyprland</strong><br>
-      Wayland Compositor<br>
-      GPU Acceleration
-    </td>
-    <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/rust.svg" width="50"><br>
-      <strong>Rust</strong><br>
-      Systems Programming<br>
-      Memory Safety
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 **Proyecto Estrella: HyprZent-v2**
-
-<div align="center">
-  <a href="https://github.com/x5368x/HyprZent-v2">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/github-icon.svg" width="100">
-  </a>
+<!-- CABECERA ÉPICA -->
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/archlinux.svg" width="120">
   
-  ### Sistema de Configuración Empresarial para Hyprland
-  <img src="https://img.shields.io/github/last-commit/x5368x/HyprZent-v2?style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/x5368x/HyprZent-v2?style=for-the-badge">
+# ✨ x5368x-Zenthrax ✨  
+### _Apasionado de Linux y Desarrollo Creativo_
   
-  ```bash
-  git clone https://github.com/x5368x/HyprZent-v2
-  cd HyprZent-v2 && ./configure
-  ```
+[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
+[![Hyprland](https://img.shields.io/badge/Hyprland-4B0082?style=for-the-badge)](https://hyprland.org)
+[![Zsh](https://img.shields.io/badge/Shell-ZSH-1B2B34?style=for-the-badge&logo=gnu-bash)](https://www.zsh.org)
+
 </div>
 
 ---
 
-## 📊 **Métricas Profesionales**
-
+## 🛠️ **Mi Caja de Herramientas**
+  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=x5368x&theme=gruvbox&column=4&margin-w=15">
+  
+| **Sistemas** | **Desarrollo** | **Diseño** |
+|--------------|----------------|------------|
+| <img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/linux-tux.svg" width="40"> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/python.svg" width="40"> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/figma.svg" width="40"> |
+| **Arch Linux** | **Python** | **Figma** |
+| <img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/docker-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/javascript.svg" width="40"> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/gimp.svg" width="40"> |
+| **Docker** | **JavaScript** | **GIMP** |
+
 </div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=x5368x&show_icons=true&theme=vision-friendly-dark">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x5368x&layout=compact&theme=vision-friendly-dark">
-    </td>
-  </tr>
-</table>
+---
+
+## 🚧 **Proyecto Actual: HyprZent-v2**  
+<div align="center">
+  
+[![Hyprland](https://img.shields.io/badge/Estado-Desarrollo_Activo-00FF00?style=flat-square)]() 
+[![GitHub](https://img.shields.io/github/last-commit/x5368x/HyprZent-v2?color=blue&style=flat-square)](https://github.com/x5368x/HyprZent-v2)
+
+```bash
+# Próximamente: Instalación automática
+git clone https://github.com/x5368x/HyprZent-v2
+```
+
+**Características Clave:**  
+✅ Estructura modular  
+🔥 Optimización extrema  
+🎨 Temas personalizados  
+📚 Documentación en progreso  
+
+</div>
 
 ---
 
-## 🌐 **Redes Profesionales**
+## 📊 **Mi Huella Digital**
+  
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x5368x&show_icons=true&theme=radical&bg_color=00000000&hide_border=true)](https://github.com/x5368x)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x5368x&layout=compact&theme=radical&bg_color=00000000&hide_border=true)](https://github.com/x5368x)
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://discord.gg/NdtChxcaU8">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/discord-icon.svg" width="40"><br>
-        Discord
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/x5368x">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/github-icon.svg" width="40"><br>
-        GitHub
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://youtube.com/@xzn-q7n9q">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/youtube-icon.svg" width="40"><br>
-        YouTube
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.tiktok.com/@x_536.8">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tiktok-icon.svg" width="40"><br>
-        TikTok
-      </a>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-## 📜 **Filosofía Técnica**
+## 🌐 **Conéctate Conmigo**
+  
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NdtChxcaU8)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@xzn-q7n9q)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@x_536.8)
 
+</div>
+
+---
+
+## 💡 **Mi Filosofía de Desarrollo**
+  
 ```text
-1.  Máxima optimización de recursos
-2.  Configuraciones reproducibles
-3.  Precisión milimétrica
-4.  Contribución open-source
-5.  Rendimiento cuantificable
+1. 🧠 Aprender haciendo > Teoría abstracta
+2. 🔥 Pasión > Perfección
+3. 🎨 Creatividad técnica
+4. 🤝 Compartir conocimiento
+5. 🚀 Mejora continua
 ```
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/creative-commons.svg" width="30">
-  <sub>Este perfil usa tecnología al límite - Construido con pasión en Arch Linux</sub>
+  
+✨ **"No soy un profesional, soy un apasionado con hambre de crear"** ✨
+
 </div>
