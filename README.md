@@ -1,100 +1,66 @@
-
-# x5368x-Zenthrax | Apasionado del Desarrollo y Sistemas
+```markdown
+# x5368x-Zenthrax | Especialista en Configuraciones Linux
 
 ```bash
-#!/bin/bash
-# ==================================================
-# Sistema: Arch Linux | WM: Hyprland | Shell: zsh
-# Terminal: WezTerm | Fastfetch para info rápida
-# ==================================================
+# ========================================================
+#  Sistema: Arch Linux x86_64 | Kernel: $(uname -r)
+#  Entorno: Hyprland (Wayland) | Shell: zsh 5.9
+#  Terminal: WezTerm | Monitor: fastfetch
+# ========================================================
+echo "Desarrollando soluciones técnicas con excelencia"
+```
 
-echo "Construyendo software con pasión, precisión y rendimiento"
+## 🔍 Áreas de Especialización
 
+| Categoría          | Tecnologías/Habilidades                          |
+|--------------------|-------------------------------------------------|
+| **Sistemas Linux** | Arch Linux • Hyprland • Optimización de Kernel  |
+| **Desarrollo**     | Python • JavaScript • Bash/Zsh Scripting        |
+| **DevOps**         | Git • Docker • Automatización                   |
+| **Frontend**       | HTML/CSS • React (Básico)                       |
 
----
+## 🚧 Proyecto en Desarrollo: HyprZent-V1
 
-🔥 Áreas de Interés
+```
+█████████████████████████████████████████████████
+█  CONFIGURACIÓN MODULAR PARA HYPRLAND (V1)     █
+█████████████████████████████████████████████████
+```
 
-Área	Tecnologías / Habilidades
+**Características Clave:**
+- Arquitectura modular y documentada
+- Optimizaciones de rendimiento comprobadas
+- Sistema de temas personalizable
+- Próximamente: Scripts de despliegue automático
 
-🖥 Desarrollo	Python · Bash · JavaScript · HTML/CSS
-🐧 Linux	Arch Linux · Hyprland · Personalización avanzada
-🎮 Gaming	Mods · Emuladores · Experiencias únicas
-🎨 Creatividad	Diseño UI · Edición Multimedia · Branding técnico
+[Ver repositorio](https://github.com/x5368x/HyprZent---V1)
 
+## 📊 Métricas de Desarrollo
 
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=x5368x&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/x5368x)
+[![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=x5368x&layout=compact&theme=dark&hide_border=true)](https://github.com/x5368x)
 
----
+## 📍 Contacto Profesional
 
-🚀 Proyecto Actual
+| Plataforma   | Enlace/Usuario                |
+|-------------|------------------------------|
+| **GitHub**  | [x5368x](https://github.com/x5368x) |
+| **Discord** | [x_536.8](https://discord.gg/NdtChxcaU8) |
+| **YouTube** | [@xzn-q7n9q](https://youtube.com/@xzn-q7n9q?si=jgDOsYd3g6pmvywc) |
+| **TikTok**  | [@x_536.8](https://www.tiktok.com/@x_536.8) |
 
-HyprZent-v2 - Configuración modular y optimizada para Hyprland (beta activa)
-👉 Repositorio HyprZent-v2
+## 🧠 Filosofía Técnica
 
-> "Modularidad, rendimiento y estética para un entorno Linux legendario."
+1. **Precisión > Velocidad** - Calidad del código primero
+2. **Documentar es desarrollar** - Conocimiento compartido
+3. **Optimización continua** - Mejora iterativa
+4. **Modularidad** - Componentes independientes
 
+```bash
+# ¿Interesado en colaborar?
+# Contacto profesional disponible mediante Discord o GitHub
+```
 
-
-
----
-
-📬 Contacto & Redes
-
-
-
-
-
-
-
----
-
-📊 Estadísticas de GitHub
-
-
-
-
-
----
-
-💡 Filosofía de Desarrollo
-
-1. Aprendizaje constante: Evolucionar todos los días.
-
-
-2. Calidad ante cantidad: Código limpio y eficiente.
-
-
-3. Modularidad: Sistemas independientes y reutilizables.
-
-
-4. Compartir conocimiento: Documentar y enseñar siempre.
-
-
-
-
----
-
-✨ Cita personal
-
-> "No busco la perfección, sino la excelencia continua."
-— x5368x-Zenthrax
-
-
-
-
----
-
-⚙️ Tecnologías Destacadas
-
-
-
-
-
-
-
-
-
-
----
-
-Gracias por visitar mi perfil, ¡vamos por un código limpio y épico!
+> "La excelencia técnica se logra cuando lo complejo se vuelve simple,  
+> no cuando lo simple se vuelve complejo." - Adaptación de Rich Hickey
+```
