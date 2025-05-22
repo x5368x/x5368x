@@ -1,71 +1,63 @@
 
-<div align="center">
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"> x5368x-Zenthrax
 
-<!-- CABECERA ÉPICA -->
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/archlinux.svg" width="120">
+<div align="center">
   
-# ✨ x5368x-Zenthrax ✨  
-### _Apasionado de Linux y Desarrollo Creativo_
-  
-[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
-[![Hyprland](https://img.shields.io/badge/Hyprland-4B0082?style=for-the-badge)](https://hyprland.org)
-[![Zsh](https://img.shields.io/badge/Shell-ZSH-1B2B34?style=for-the-badge&logo=gnu-bash)](https://www.zsh.org)
+**Apasionado de Linux | Hyprland Enthusiast | Dotfiles Developer**
+
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
+[![Hyprland](https://img.shields.io/badge/-Hyprland-4B0082?style=for-the-badge)](https://hyprland.org)
+[![Zsh](https://img.shields.io/badge/Shell-ZSH-DD4A32?style=for-the-badge&logo=gnu-bash)](https://www.zsh.org)
 
 </div>
 
 ---
 
-## 🛠️ **Mi Caja de Herramientas**
-  
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"> Tecnologías Favoritas
+
 <div align="center">
-  
-| **Sistemas** | **Desarrollo** | **Diseño** |
-|--------------|----------------|------------|
-| <img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/linux-tux.svg" width="40"> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/python.svg" width="40"> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/figma.svg" width="40"> |
-| **Arch Linux** | **Python** | **Figma** |
-| <img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/docker-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/javascript.svg" width="40"> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/d31c5e1d7c9b42ee315a939d809a4c8b3d9e1783/logos/gimp.svg" width="40"> |
-| **Docker** | **JavaScript** | **GIMP** |
+
+| **Sistemas** | **Lenguajes** | **Herramientas** |
+|--------------|---------------|------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40"> Arch | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"> Git |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"> Linux | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"> JS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40"> Neovim |
 
 </div>
 
 ---
 
-## 🚧 **Proyecto Actual: HyprZent-v2**  
-<div align="center">
-  
-[![Hyprland](https://img.shields.io/badge/Estado-Desarrollo_Activo-00FF00?style=flat-square)]() 
-[![GitHub](https://img.shields.io/github/last-commit/x5368x/HyprZent-v2?color=blue&style=flat-square)](https://github.com/x5368x/HyprZent-v2)
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"> Proyecto Actual
+
+**HyprZent-v2** - Mi configuración personal de Hyprland
 
 ```bash
-# Próximamente: Instalación automática
+# En desarrollo - Próximamente más features
 git clone https://github.com/x5368x/HyprZent-v2
 ```
 
-**Características Clave:**  
-✅ Estructura modular  
-🔥 Optimización extrema  
-🎨 Temas personalizados  
-📚 Documentación en progreso  
+🔹 **Características principales:**
+- Configuración modular
+- Optimizada para rendimiento
+- Temas personalizados
+- Documentación en progreso
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30" height="30"> Estadísticas
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x5368x&show_icons=true&theme=radical)](https://github.com/x5368x)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x5368x&layout=compact&theme=radical)](https://github.com/x5368x)
 
 </div>
 
 ---
 
-## 📊 **Mi Huella Digital**
-  
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30" height="30"> Contacto
+
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x5368x&show_icons=true&theme=radical&bg_color=00000000&hide_border=true)](https://github.com/x5368x)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x5368x&layout=compact&theme=radical&bg_color=00000000&hide_border=true)](https://github.com/x5368x)
 
-</div>
-
----
-
-## 🌐 **Conéctate Conmigo**
-  
-<div align="center">
-  
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NdtChxcaU8)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@xzn-q7n9q)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@x_536.8)
@@ -74,20 +66,8 @@ git clone https://github.com/x5368x/HyprZent-v2
 
 ---
 
-## 💡 **Mi Filosofía de Desarrollo**
-  
-```text
-1. 🧠 Aprender haciendo > Teoría abstracta
-2. 🔥 Pasión > Perfección
-3. 🎨 Creatividad técnica
-4. 🤝 Compartir conocimiento
-5. 🚀 Mejora continua
-```
-
----
-
 <div align="center">
   
-✨ **"No soy un profesional, soy un apasionado con hambre de crear"** ✨
+✨ **"La pasión por la tecnología es mi motor"** ✨
 
 </div>
