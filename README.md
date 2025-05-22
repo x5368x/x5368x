@@ -6,7 +6,10 @@
 ./ /__|  __/ | | | |_| | | | | | (_| |>  < 
 \_____/\___|_| |_|\__|_| |_|_|  \__,_/_/\_\
                                            
-                                           
+                              
+
+
+             
 
 ```markdown
 # x5368x-Zenthrax | Especialista en Configuraciones Linux
