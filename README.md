@@ -31,7 +31,7 @@
     >
   </a>
   <br>
-  <h2 style="font-family: 'Segoe UI', sans-serif; color: #20c997;">¡Hola Mundo! 👋</h2>
+  <h2 style="font-family: 'Segoe UI', sans-serif; color: #20c997;">¡Hola a Todos! 🙌</h2>
 </div>
 
 Apasionado autodidacta con 1 año de experiencia explorando:
