@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" width="24"
+# <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" width="24"height="24"> x5368x
 
 ```markdown
- height="24"> x5368x-Zenthrax | Linux Systems Architect
+ x5368x-Zenthrax | Linux Systems Architect
 
 ```bash
 #!/usr/bin/env bash
