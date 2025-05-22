@@ -45,7 +45,6 @@ Apasionado autodidacta con 1 año de experiencia explorando:
 ---
 
 ## **🛠️ Mis Herramientas**  
-*(Icono de herramientas alternativo)*
 
 ### **Sistemas**
 ```text
@@ -69,7 +68,6 @@ Neovim      ██████████░░░░░░░░░░░░�
 ---
 
 ## **💻 Proyecto Actual: HyprZent-v2**  
-*(Icono de proyecto alternativo)*
 
 <div align="center">
   <img src="https://simpleicons.org/icons/hyper.svg" width="50" height="50">
@@ -102,7 +100,6 @@ Neovim      ██████████░░░░░░░░░░░░�
 ---
 
 ## **📩 Contacto**  
-*(Icono de correo alternativo)*
 
 <table>
   <tr>
@@ -138,7 +135,6 @@ Neovim      ██████████░░░░░░░░░░░░�
 ---
 
 ## **💡 Mi Enfoque**  
-*(Icono de idea alternativo)*
 
 1. **Aprendizaje práctico**: Experimentar > Teorizar
 2. **Documentación**: Registrar cada solución encontrada
