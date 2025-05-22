@@ -24,12 +24,12 @@
     <img 
       src="https://avatars.githubusercontent.com/x5368x" 
       width="150" 
-      style="border-radius:50%; border:3px solid #20c997; box-shadow:0 5px 15px rgba(0,0,0,0.2)"
+      style="border-radius:50%; border:3px solid #20c997; box-shadow:0 5px 15px rgba(0,0,0,0.2); object-fit: cover; display: block; margin: 0 auto;"
       alt="Avatar de x5368x"
     >
   </a>
   <br>
-  <h2>¡Hola Mundo! 👋</h2>
+  <h2 style="font-family: 'Segoe UI', sans-serif; color: #20c997; text-shadow: 1px 1px 3px rgba(0,0,0,0.2);">¡Hola Mundo! 👋</h2>
 </div>
 Apasionado autodidacta con 1 año de experiencia explorando:
 - Personalización avanzada de Hyprland
