@@ -22,7 +22,7 @@
 <div align="center">
   <a href="https://github.com/x5368x">
     <img 
-      src="https://avatars.githubusercontent.com/x5368x" 
+      src="https://i.imgur.com/EXAMPLE.jpg"  <!-- Reemplaza con tu imagen cuadrada -->
       width="150" 
       height="150"
       style="
@@ -31,18 +31,11 @@
         box-shadow: 0 5px 15px rgba(0,0,0,0.2);
         object-fit: cover;
         display: block;
-        margin: 0 auto;
-        padding: 0;
       "
-      alt="Avatar de x5368x"
+      alt="Avatar"
     >
   </a>
-  <br>
-  <h2 style="
-    font-family: 'Segoe UI', sans-serif; 
-    color: #20c997;
-    margin-top: 15px;
-  ">¡Hola Mundo! 👋</h2>
+  <h2 style="color: #20c997; margin-top: 10px;">¡Hola Mundo! 👋</h2>
 </div>
 
 Apasionado autodidacta con 1 año de experiencia explorando:
