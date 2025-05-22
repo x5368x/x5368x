@@ -8,7 +8,7 @@
 # <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/wayland.svg" width="16" height="16"> WM: Hyprland (Wayland)
 # <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/zsh.svg" width="16" height="16"> Shell: zsh 5.9
 # <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/wezterm.svg" width="16" height="16"> Terminal: WezTerm
-# ================================================== #```
+# ================================================== #
 
 ## <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="20" height="20"> Technical Expertise
 
