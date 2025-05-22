@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" width="24" height="24"> x5368x-Zenthrax | Linux Systems Architect
 
-```bash
+bash
 #!/usr/bin/env bash
 # ================================================== #
 # <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" width="16" height="16"> OS: Arch Linux x86_64
@@ -9,7 +9,6 @@
 # <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/zsh.svg" width="16" height="16"> Shell: zsh 5.9
 # <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/wezterm.svg" width="16" height="16"> Terminal: WezTerm
 # ================================================== #
-```
 
 ## <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="20" height="20"> Technical Expertise
 
