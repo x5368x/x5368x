@@ -18,7 +18,12 @@
 ```
 
 ## **📌 Sobre Mí**  
-*(Icono de usuario alternativo)*
+<div align="center">
+  <a href="https://github.com/x5368x">
+    <img src="https://avatars.githubusercontent.com/u/TU_ID_DE_USUARIO?v=4" width="120" style="border-radius:50%;border:3px solid #20c997">
+  </a>
+  <h2>¡Hola! 👋</h2>
+</div>
 
 Apasionado autodidacta con 1 año de experiencia explorando:
 - Personalización avanzada de Hyprland
