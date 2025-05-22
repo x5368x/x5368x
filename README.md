@@ -21,21 +21,22 @@
 ## **📌 Sobre Mí**  
 <div align="center">
   <a href="https://github.com/x5368x">
-    <img 
-      src="https://i.imgur.com/EXAMPLE.jpg"  <!-- Reemplaza con tu imagen cuadrada -->
-      width="150" 
-      height="150"
-      style="
-        border-radius: 50%;
-        border: 3px solid #20c997;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-        object-fit: cover;
-        display: block;
-      "
-      alt="Avatar"
-    >
+    <svg width="150" height="150" viewBox="0 0 150 150">
+      <defs>
+        <clipPath id="circleClip">
+          <circle cx="75" cy="75" r="73"/>
+        </clipPath>
+      </defs>
+      <image 
+        href="https://avatars.githubusercontent.com/x5368x" 
+        width="150" 
+        height="150" 
+        clip-path="url(#circleClip)"
+        style="border: 3px solid #20c997;"
+      />
+    </svg>
   </a>
-  <h2 style="color: #20c997; margin-top: 10px;">¡Hola Mundo! 👋</h2>
+  <h2 style="color: #20c997;">¡Hola Mundo! 👋</h2>
 </div>
 
 Apasionado autodidacta con 1 año de experiencia explorando:
