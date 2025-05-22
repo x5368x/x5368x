@@ -1,109 +1,162 @@
-
-# <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" width="28" height="28"> x5368x | Arquitecto de Sistemas Linux
+# **<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" width="32" height="32"> x5368x | Ingeniero de Sistemas Linux & Desarrollador de Entornos Wayland**
 
 ```bash
 #!/usr/bin/env bash
-# ====================================================== #
-# <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" width="18" height="18"> SO: Arch Linux x86_64 (Bleeding Edge)
-# <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/wayland.svg" width="18" height="18"> WM: Hyprland (Compositor Wayland)
-# <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/zsh.svg" width="18" height="18"> Shell: zsh 5.9 con oh-my-zsh
-# <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/wezterm.svg" width="18" height="18"> Terminal: WezTerm (GPU-Accelerated)
-# <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nvidia.svg" width="18" height="18"> Gráficos: NVIDIA RTX (Driver Open-Source)
-# ====================================================== #
+# ====================================================================== #
+# ████████╗██╗░░░██╗██████╗░  ███████╗░█████╗░██████╗░░█████╗░██╗░░██╗
+# ╚══██╔══╝╚██╗░██╔╝██╔══██╗  ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║░██╔╝
+# ░░░██║░░░░╚████╔╝░██████╔╝  █████╗░░██║░░██║██████╔╝██║░░╚═╝█████═╝░
+# ░░░██║░░░░░╚██╔╝░░██╔═══╝░  ██╔══╝░░██║░░██║██╔══██╗██║░░██╗██╔═██╗░
+# ░░░██║░░░░░░██║░░░██║░░░░░  ██║░░░░░╚█████╔╝██║░░██║╚█████╔╝██║░╚██╗
+# ░░░╚═╝░░░░░░╚═╝░░░╚═╝░░░░░  ╚═╝░░░░░░╚════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
+# ====================================================================== #
+# 🔧 Sistema Operativo: Arch Linux x86_64 (Rolling Release) 
+# 🖥️ Entorno Gráfico: Hyprland (Wayland) + Custom Widgets
+# 🐚 Shell: zsh 5.9 + oh-my-zsh + Powerlevel10k
+# 💻 Terminal: WezTerm (GPU Accelerated) + Tmux
+# 🛠️ Toolchain: GCC 13.2 | Clang 16.0 | Rust 1.70
+# 🎮 Drivers: NVIDIA 545 + Vulkan | Mesa 23.2
+# ====================================================================== #
 ```
 
-## <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terminal.svg" width="24" height="24"> Sobre Mí
+## **<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terminal.svg" width="26" height="26"> Sobre Mí**
 
-¡Hola! Soy un entusiasta de los sistemas Linux con más de 5 años de experiencia especializado en:
+Soy un **especialista en sistemas Linux** con más de **5 años de experiencia** en entornos de alto rendimiento, enfocado en:
 
-- Arquitecturas de sistemas GNU/Linux optimizadas
-- Entornos Wayland y compositors avanzados
-- Automatización de infraestructura como código
-- Desarrollo de herramientas CLI eficientes
+- **Arquitectura de sistemas GNU/Linux optimizados** (Kernel tuning, filesystems avanzados)
+- **Desarrollo de entornos Wayland personalizados** (Compositors, protocolos wlroots)
+- **Automatización de infraestructura como código** (Ansible, Terraform, NixOS)
+- **Ingeniería de rendimiento** (Benchmarking, profiling, low-latency tuning)
+- **Seguridad ofensiva/defensiva** (Hardening, pentesting básico, SELinux)
 
-## <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="24" height="24"> Habilidades Técnicas
+> *"No soy un gurú, solo un obsesivo de la eficiencia que cree en el open-source como filosofía"*
 
+---
+
+## **<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/stackoverflow-icon.svg" width="26" height="26"> Stack Tecnológico Completo**
+
+### **<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" width="20" height="20"> Sistemas & DevOps**
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" width="18" height="18"> <strong>Sistemas Linux</strong></td>
+    <td><strong>Distribuciones</strong></td>
+    <td>Arch Linux (Expert) | Debian | Fedora | NixOS</td>
+  </tr>
+  <tr>
+    <td><strong>Infraestructura</strong></td>
     <td>
-      • Arch Linux (Expertise avanzado)<br>
-      • Hyprland/Sway (Configuración avanzada)<br>
-      • Compilación de kernels personalizados<br>
-      • Seguridad hardening (SELinux, firejail)
+      • Docker/Podman • Kubernetes (K3s) • LXC<br>
+      • Ansible • Terraform • Packer • Cloud-Init<br>
+      • GitHub Actions • GitLab CI • ArgoCD
     </td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" width="18" height="18"> <strong>DevOps & Cloud</strong></td>
+    <td><strong>Monitorización</strong></td>
     <td>
-      • Docker/Podman (Orquestación de contenedores)<br>
-      • Ansible/Puppet (Automatización)<br>
-      • CI/CD (GitHub Actions, GitLab CI)<br>
-      • AWS/GCP (Conceptos básicos)
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" width="18" height="18"> <strong>Desarrollo</strong></td>
-    <td>
-      • Python (Scripting avanzado, Flask)<br>
-      • JavaScript/Node.js (Automatizaciones)<br>
-      • Rust (Sistemas de bajo nivel)<br>
-      • Bash/Zsh (Scripting profesional)
+      • Prometheus/Grafana • Netdata • bpftrace<br>
+      • eBPF • perf • FlameGraphs
     </td>
   </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" width="24" height="24"> Proyecto Destacado: HyprZent-V1
+### **<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/code.svg" width="20" height="20"> Desarrollo**
+```text
+Python       ████████████████████░░░░   85%  (Flask, FastAPI, Scrapy)
+JavaScript   ██████████████░░░░░░░░░   60%  (Node.js, Electron)
+Rust         █████████░░░░░░░░░░░░░░   45%  (Systems Programming)
+Bash/Zsh     ██████████████████░░░░░   80%  (Advanced Scripting)
+C/C++        ████████░░░░░░░░░░░░░░░   40%  (Embedded Basics)
+```
+
+### **<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/wayland.svg" width="20" height="20"> Wayland Ecosystem**
+```text
+Hyprland     ██████████████████████    100% (Custom Modules)
+Sway         █████████████████░░░░░    75% 
+wlroots      █████████████░░░░░░░░░    65% (Protocol Extensions)
+GTK/Qt       ██████████░░░░░░░░░░░░    50% (Theming/Integration)
+```
+
+---
+
+## **<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" width="26" height="26"> Proyecto en Desarrollo: HyprZent-v2**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hyper.svg" width="52" height="52">
-  <h3>Configuración Avanzada de Hyprland</h3>
-  <p>Modular • Alto Rendimiento • Altamente Personalizable</p>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hyper.svg" width="80" height="80">
+  <h2>Hyprland Configuration Framework</h2>
   
-  <strong>Características principales:</strong><br>
-  • Gestión de ventanas optimizada<br>
-  • Efectos visuales con hardware acceleration<br>
-  • Integración perfecta con herramientas CLI<br>
-  • Sistema de plugins modular
-  
-  <a href="https://github.com/x5368x/HyprZent---V1">
-    <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+  ![Work In Progress](https://img.shields.io/badge/🚧_En_Desarrollo_Activo-FFA500?style=flat)
+  ![Wayland](https://img.shields.io/badge/Wayland-FFFFFF?style=flat&logo=wayland)
+  ![Hyprland](https://img.shields.io/badge/Hyprland-00AA00?style=flat)
+
+  **Objetivo principal:** Crear el entorno Wayland más optimizado y personalizable para workflows técnicos.
+
+  ### 🔥 Características Clave (Planeadas)
+  ```diff
+  + Sistema de módulos intercambiables (BSP/Tiling/Stacking)
+  + Gestión de energía avanzada (TLP, powertop, auto-suspend)
+  + Integración nativa con herramientas CLI (fzf, ripgrep, tmux)
+  + Widgets personalizados (E-WWW + Lua)
+  + Perfiles de rendimiento (Low-Latency/Gaming/Development)
+  ! Soporte experimental para Nvidia (GBM vs EGLStreams)
+  ```
+
+  ### 📌 Roadmap 2024
+  - [ ] Core: Sistema de configuración modular (Q2 2024)
+  - [ ] UI: Dashboard de control (Q3 2024)
+  - [ ] Docs: Wiki completa (Q4 2024)
+
+  <a href="https://github.com/x5368x/HyprZent-v2">
+    <img src="https://img.shields.io/badge/VER_REPO-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://github.com/x5368x/HyprZent---V1/issues">
-    <img src="https://img.shields.io/badge/Reportar_Bug-ED1C24?style=for-the-badge&logo=bug&logoColor=white">
+  <a href="https://github.com/x5368x/HyprZent-v2/issues">
+    <img src="https://img.shields.io/badge/CONTRIBUIR-005571?style=for-the-badge&logo=git">
   </a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-octocat.svg" width="24" height="24"> Estadísticas GitHub
+---
+
+## **<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-octocat.svg" width="26" height="26"> Estadísticas Avanzadas**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x5368x&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x5368x&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes" width="40%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x5368x&theme=radical&hide_border=true" alt="Racha" width="90%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=x5368x&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=8">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=x5368x&show_icons=true&theme=default&include_all_commits=true&hide_border=true&border_radius=8" width="48%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=x5368x&layout=compact&theme=radical&hide_border=true&langs_count=8&border_radius=8">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=x5368x&layout=compact&theme=default&hide_border=true&langs_count=8&border_radius=8" width="45%">
+  </picture>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=x5368x&theme=radical&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)
 </div>
 
-## <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/network.svg" width="24" height="24"> Conéctate Conmigo
+---
+
+## **<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/contact.svg" width="26" height="26"> Contacto Profesional**
 
 <table>
   <tr>
-    <td><a href="https://github.com/x5368x"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" width="22" height="22"> GitHub</a></td>
-    <td><a href="https://discord.gg/NdtChxcaU8"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/discord-icon.svg" width="22" height="22"> Discord</a></td>
-    <td><a href="mailto:tu@email.com"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" width="22" height="22"> Email</a></td>
+    <td align="center"><a href="https://github.com/x5368x"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" width="40"><br>GitHub</a></td>
+    <td align="center"><a href="https://discord.gg/NdtChxcaU8"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/discord-icon.svg" width="40"><br>Discord</a></td>
+    <td align="center"><a href="mailto:tu@email.com"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" width="40"><br>Email</a></td>
   </tr>
   <tr>
-    <td><a href="https://youtube.com/@xzn-q7n9q"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/youtube-icon.svg" width="22" height="22"> YouTube</a></td>
-    <td><a href="https://www.tiktok.com/@x_536.8"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" width="22" height="22"> TikTok</a></td>
-    <td><a href="https://linkedin.com/in/tuperfil"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" width="22" height="22"> LinkedIn</a></td>
+    <td align="center"><a href="https://youtube.com/@xzn-q7n9q"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/youtube-icon.svg" width="40"><br>YouTube</a></td>
+    <td align="center"><a href="https://www.tiktok.com/@x_536.8"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" width="40"><br>TikTok</a></td>
+    <td align="center"><a href="https://linkedin.com/in/tuperfil"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" width="40"><br>LinkedIn</a></td>
   </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/philosophy.svg" width="24" height="24"> Filosofía de Desarrollo
+---
 
-1. <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prettier.svg" width="18" height="18"> **Código Limpio** - Legibilidad y mantenibilidad primero
-2. <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" width="18" height="18"> **Documentación Completa** - Proyectos bien documentados
-3. <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/rust.svg" width="18" height="18"> **Optimización** - Eficiencia en cada línea de código
-4. <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/open-source.svg" width="18" height="18"> **Open Source** - Contribuciones a la comunidad
-5. <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/security.svg" width="18" height="18"> **Seguridad** - Prácticas secure-by-design
+## **<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/philosophy.svg" width="26" height="26"> Manifiesto Técnico**
 
-> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" width="18" height="18"> *"La simplicidad es la máxima sofisticación"* — Leonardo da Vinci<br>
-> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terminal.svg" width="18" height="18"> *"El conocimiento es poder, compártelo"* — Comunidad Open Source
+1. **🛠️ Hardware es el límite** - Optimización hasta el último ciclo de CPU
+2. **📜 Documentación o muerte** - Ningún commit sin su README correspondiente
+3. **🐧 Linux como religión** - Pero sin fanatismos irracionales
+4. **🔓 Open-Source siempre** - El conocimiento debe ser libre
+5. **⚡ Rendimiento > Belleza** - Aunque lo ideal es tener ambos
+
+> *"En un mundo de contenedores y abstracciones, a veces lo mejor es volver al metal"*  
+> — x5368x, 2024
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
