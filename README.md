@@ -1,90 +1,100 @@
-#  x5368x | Zenthrax Architect
+
+# x5368x-Zenthrax | Apasionado del Desarrollo y Sistemas
 
 ```bash
 #!/bin/bash
-# ================================
-#  Sistema  : Arch Linux (Hyprland)
-#  Terminal : WezTerm + Zsh
-#  Shell UX : Starship + Fastfetch
-# ================================
+# ==================================================
+# Sistema: Arch Linux | WM: Hyprland | Shell: zsh
+# Terminal: WezTerm | Fastfetch para info rápida
+# ==================================================
 
-echo "Diseñando entornos. No configurando escritorios."
-
-
----
-
- Áreas de Interés
-
-┌────────────┬────────────────────────────────────────┐
-│  Código   │ Bash • Python • JavaScript             │
-│  UI/UX    │ React (learning) • HTML/CSS            │
-│  Linux    │ Arch Linux • Hyprland • Wayland        │
-│ 󰓓 Tools   │ Neovim • Git • swww • pywal • Kitty     │
-│  Creativo │ Diseño visual • Tematización avanzada  │
-└────────────┴────────────────────────────────────────┘
+echo "Construyendo software con pasión, precisión y rendimiento"
 
 
 ---
 
- Proyecto Actual: HyprZent-v2
+🔥 Áreas de Interés
 
-+ Dotfile modular, visual y ultra optimizado para Hyprland
-! Estado actual: Desarrollo activo (v2 beta)
+Área	Tecnologías / Habilidades
 
- Objetivos:
-
-󰒓 Estructura limpia y mantenible
-
-󰌌 Sincronización de colores dinámica
-
-󰓅 Rendimiento visual extremo (GTK, Waybar, etc.)
-
-󰟗 Scripts automatizados (bash + pywal)
-
-󰙅 Plug & Play: fácil de clonar y aplicar
-
-
-⚠️ Proyecto en fase de pruebas — Updates semanales garantizadas
-
-
----
-
- Contacto Profesional
-
-Plataforma	Usuario / Enlace
-
- GitHub	@x5368x
- YouTube	@xzn-q7n9q
- Discord	x_536.8
- TikTok	@x_536.8
+🖥 Desarrollo	Python · Bash · JavaScript · HTML/CSS
+🐧 Linux	Arch Linux · Hyprland · Personalización avanzada
+🎮 Gaming	Mods · Emuladores · Experiencias únicas
+🎨 Creatividad	Diseño UI · Edición Multimedia · Branding técnico
 
 
 
 ---
 
- Stats Técnicos
+🚀 Proyecto Actual
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x5368x&show_icons=true&theme=radical&hide_title=true&locale=es" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x5368x&layout=compact&theme=radical&locale=es" width="47%" />
-</p>
----
+HyprZent-v2 - Configuración modular y optimizada para Hyprland (beta activa)
+👉 Repositorio HyprZent-v2
 
- Filosofía de Desarrollo
+> "Modularidad, rendimiento y estética para un entorno Linux legendario."
 
-1.  Entornos que rinden desde el primer boot
-2.  Automatización visual y funcional
-3.  Linux sin capas innecesarias
-4.  Personalización con propósito
-5.  Minimalismo eficiente, no vacío
+
 
 
 ---
 
- ¿Colaboramos?
+📬 Contacto & Redes
 
-# Contacto abierto para ideas, mejoras o colaboración directa
-# Discord: x_536.8
 
-> “No busco una distro bonita. Diseño un entorno de precisión.”
-— x5368x
+
+
+
+
+
+---
+
+📊 Estadísticas de GitHub
+
+
+
+
+
+---
+
+💡 Filosofía de Desarrollo
+
+1. Aprendizaje constante: Evolucionar todos los días.
+
+
+2. Calidad ante cantidad: Código limpio y eficiente.
+
+
+3. Modularidad: Sistemas independientes y reutilizables.
+
+
+4. Compartir conocimiento: Documentar y enseñar siempre.
+
+
+
+
+---
+
+✨ Cita personal
+
+> "No busco la perfección, sino la excelencia continua."
+— x5368x-Zenthrax
+
+
+
+
+---
+
+⚙️ Tecnologías Destacadas
+
+
+
+
+
+
+
+
+
+
+---
+
+Gracias por visitar mi perfil, ¡vamos por un código limpio y épico!
