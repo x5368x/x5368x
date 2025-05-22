@@ -20,11 +20,16 @@
 ## **📌 Sobre Mí**  
 <div align="center">
   <a href="https://github.com/x5368x">
-    <img src="https://avatars.githubusercontent.com/u/TU_ID_DE_USUARIO?v=4" width="120" style="border-radius:50%;border:3px solid #20c997">
+    <img 
+      src="https://avatars.githubusercontent.com/x5368x" 
+      width="150" 
+      style="border-radius:50%; border:3px solid #20c997; box-shadow:0 5px 15px rgba(0,0,0,0.2)"
+      alt="Avatar de x5368x"
+    >
   </a>
-  <h2>¡Hola! 👋</h2>
+  <br>
+  <h2>¡Hola Mundo! 👋</h2>
 </div>
-
 Apasionado autodidacta con 1 año de experiencia explorando:
 - Personalización avanzada de Hyprland
 - Automatización con scripts Bash/Zsh
