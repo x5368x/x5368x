@@ -53,27 +53,27 @@ Dotfiles:     Git-tracked & Modular
   </tr>
   <tr>
     <td style="padding:6px 12px;">System Architecture</td>
-    <td style="padding:6px 12px;">45%</td>
+    <td style="padding:6px 12px;">95%</td>
   </tr>
   <tr>
     <td style="padding:6px 12px;">WM Customization</td>
-    <td style="padding:6px 12px;">35%</td>
+    <td style="padding:6px 12px;">75%</td>
   </tr>
   <tr>
     <td style="padding:6px 12px;">CLI Tooling</td>
-    <td style="padding:6px 12px;">20%</td>
+    <td style="padding:6px 12px;">60%</td>
   </tr>
 </table>
 
 ### 𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦
 ```progressbar
-Arch Linux | 90% | #2B2D42
+Arch Linux | 90% |
 ```
 ```progressbar
-Hyprland | 85% | #4A4E69
+Hyprland | 85% |
 ```
 ```progressbar
-Bash/Zsh | 80% | #8D99AE
+Bash/Zsh | 80% |
 ```
 
 </div>
