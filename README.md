@@ -50,34 +50,18 @@ Dotfiles:     Git-tracked & Modular
   <tr>
     <th style="padding:8px 12px;">Área</th>
     <th style="padding:8px 12px;">Porcentaje</th>
-    <th style="padding:8px 12px;">Progreso</th>
   </tr>
   <tr>
     <td style="padding:6px 12px;">System Architecture</td>
-    <td>45%</td>
-    <td>
-      <div style="background:#333; width:100%; height:12px; border-radius:6px;">
-        <div style="background:#2B2D42; width:45%; height:100%; border-radius:6px;"></div>
-      </div>
-    </td>
+    <td style="padding:6px 12px;">45%</td>
   </tr>
   <tr>
     <td style="padding:6px 12px;">WM Customization</td>
-    <td>35%</td>
-    <td>
-      <div style="background:#333; width:100%; height:12px; border-radius:6px;">
-        <div style="background:#4A4E69; width:35%; height:100%; border-radius:6px;"></div>
-      </div>
-    </td>
+    <td style="padding:6px 12px;">35%</td>
   </tr>
   <tr>
     <td style="padding:6px 12px;">CLI Tooling</td>
-    <td>20%</td>
-    <td>
-      <div style="background:#333; width:100%; height:12px; border-radius:6px;">
-        <div style="background:#8D99AE; width:20%; height:100%; border-radius:6px;"></div>
-      </div>
-    </td>
+    <td style="padding:6px 12px;">20%</td>
   </tr>
 </table>
 
