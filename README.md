@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#00ffcc;">
-  x5368x — Linux Enthusiast | Hyprland Aesthetic
+  x5368x — Linux Entusiasta | Hyprland Estético
 </h1>
 
 <div align="center">
@@ -78,6 +78,7 @@ Bash/Zsh | 80% | 🛡️
 
 </div>
 </div>
+
 ---
 
 ## ◈ Proyecto Actual: HyprZent-v2  
