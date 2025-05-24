@@ -114,4 +114,6 @@ Dotfiles:     Git-tracked & Modular
 
 > *"En el mundo Linux, cada día es una nueva aventura de aprendizaje"*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a1a1a,100:0f0f0f&section=footer"/>
+</div>
