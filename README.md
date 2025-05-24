@@ -11,29 +11,48 @@
 
 ---
 
-## **📌 Sobre Mí**  
+<h1 align="center" style="color:#00ffcc;">
+  x5368x — Linux Enthusiast | Hyprland Aesthetic
+</h1>
+
 <div align="center">
-  <a href="https://github.com/x5368x">
-    <img 
-      src="https://avatars.githubusercontent.com/x5368x" 
-      width="150" 
-      style="border-radius:50%; border:3px solid #20c997; box-shadow:0 5px 15px rgba(0,0,0,0.2); transition: all 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)'"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.2)'"
-      alt="Avatar"
-    >
-  </a>
-  <br>
-  <h2 style="font-family: 'Segoe UI', sans-serif; color: #20c997;">¡Hola a Todos! 🙌</h2>
+
+<img src="https://img.shields.io/badge/OS-Arch%20Linux-2b2b2b?style=for-the-badge&logo=archlinux&logoColor=00ffff"/>
+<img src="https://img.shields.io/badge/WM-Hyprland-1f1f1f?style=for-the-badge&logo=wayland&logoColor=00ffcc"/>
+<img src="https://img.shields.io/badge/Editor-Neovim-181818?style=for-the-badge&logo=neovim&logoColor=39ff14"/>
+<img src="https://img.shields.io/badge/Shell-ZSH-202020?style=for-the-badge&logo=gnubash&logoColor=ffffff"/>
+
 </div>
 
-Apasionado autodidacta con 1 año de experiencia explorando:
-- Personalización avanzada de Hyprland
-- Automatización con scripts Bash/Zsh
-- Configuración minimalista de entornos Linux
-- Aprendizaje continuo de tecnologías open-source
+---
 
-> *"Cada error de configuración es una nueva lección aprendida"*
+## ✦ Acerca de Mí
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/x5368x" width="140" style="border-radius: 50%; border: 3px solid #00ffaa; box-shadow: 0 5px 20px rgba(0,255,204,0.3);"/>
+</div>
+
+Apasionado del ecosistema Linux y la personalización visual de entornos minimalistas. Me especializo en:
+
+- Personalización avanzada de entornos *Wayland* (Hyprland)
+- Shell scripting con *ZSH* / *Bash*
+- Gestión y optimización de dotfiles
+- Automatización en terminales modernas (WezTerm, Alacritty)
+- Edición de configuración con *Neovim* y plugins *Lua*
+
+> *"Cada línea de configuración es una obra visual."*
+
+---
+
+## ✦ Tech Stack
+
+```yaml
+OS:           Arch Linux (Rolling Release)
+WM:           Hyprland (Wayland)
+Shell:        Zsh + Oh-My-Zsh + Powerlevel10k
+Terminal:     WezTerm GPU Accelerated
+Editor:       Neovim (LazyVim + Lua Plugins)
+Dotfiles:     Git-tracked & Modular
 
 ---
 
