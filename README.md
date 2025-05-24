@@ -67,13 +67,13 @@ Dotfiles:     Git-tracked & Modular
 
 ### 𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦
 ```progressbar
-Arch Linux | 90% |
+Arch Linux | 90% | 🛡️
 ```
 ```progressbar
-Hyprland | 85% |
+Hyprland | 85% | 🛡️
 ```
 ```progressbar
-Bash/Zsh | 80% |
+Bash/Zsh | 80% | 🛡️
 ```
 
 </div>
