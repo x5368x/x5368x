@@ -1,4 +1,4 @@
-style="color:#00ff99;">x5368x</span> — **Entusiasta Linux & Hyprland**
+# <span style="color:#00ff99;">x5368x</span> — **Entusiasta Linux & Hyprland**
 
 <div align="center">
 
@@ -8,6 +8,8 @@ style="color:#00ff99;">x5368x</span> — **Entusiasta Linux & Hyprland**
 ![Editor](https://img.shields.io/badge/Editor-Neovim-121212?style=for-the-badge&logo=neovim&logoColor=39ff14)
 
 </div>
+
+
 
 ```
 
