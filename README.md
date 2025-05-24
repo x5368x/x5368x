@@ -40,6 +40,7 @@ Shell:        Zsh + Oh-My-Zsh + Powerlevel10k
 Terminal:     WezTerm GPU Accelerated
 Editor:       Neovim (LazyVim + Lua Plugins)
 Dotfiles:     Git-tracked & Modular
+```
 
 ---
 
