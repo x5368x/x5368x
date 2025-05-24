@@ -44,17 +44,17 @@ Dotfiles:     Git-tracked & Modular
 
 ---
 
-## ◈ Habilidades Técnicas
+## ◈ Matriz Técnica
 
-| Tecnología | Dominio                 |
-|------------|------------------------:|
-| Arch Linux | ████████████░░░░░░ 80%  |
-| Hyprland   | ██████████░░░░░░░░ 70%  |
-| Bash/Zsh   | ███████████░░░░░░░ 75%  |
-| Python     | ████████░░░░░░░░░ 60%   |
-| Git        | ██████████░░░░░░░░ 70%  |
-| Docker     | ██████░░░░░░░░░░░ 50%   |
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin: 40px 0;">
 
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'pie1':'#2B2D42','pie2':'#4A4E69','pie3':'#8D99AE'}}}%%
+pie showData
+    title "Distribución del enfoque"
+    "Arquitectura del sistema" : 45
+    "Personalización de WM" : 35
+    "Herramientas CLI" : 20
 
 ---
 
