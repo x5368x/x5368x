@@ -13,7 +13,7 @@
 
 ---
 
-## ✦ Acerca de Mí
+## ◈ Acerca de Mí
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/x5368x" width="140" style="border-radius: 50%; border: 3px solid #00ffaa; box-shadow: 0 5px 20px rgba(0,255,204,0.3);"/>
@@ -31,7 +31,7 @@ Apasionado del ecosistema Linux y la personalización visual de entornos minimal
 
 ---
 
-## ✦ Tech Stack
+## ◈ Tech Stack
 
 ```yaml
 OS:           Arch Linux (Rolling Release)
@@ -44,7 +44,7 @@ Dotfiles:     Git-tracked & Modular
 
 ---
 
-## Habilidades Técnicas
+## ◈ Habilidades Técnicas
 
 | Tecnología | Dominio                 |
 |------------|------------------------:|
@@ -58,7 +58,7 @@ Dotfiles:     Git-tracked & Modular
 
 ---
 
-## **💻 Proyecto Actual: HyprZent-v2**  
+## ◈ Proyecto Actual: HyprZent-v2  
 
 <div align="center">
   <img src="https://simpleicons.org/icons/hyper.svg" width="50" height="50">
@@ -84,7 +84,7 @@ Dotfiles:     Git-tracked & Modular
 
 ---
 
-## **📊 Mis Estadísticas GitHub**
+## ◈ Mis Estadísticas GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=x5368x&show_icons=true&theme=radical&hide_border=true" width="48%">
@@ -93,20 +93,18 @@ Dotfiles:     Git-tracked & Modular
 
 ---
 
-## **📩 Contacto**  
+## ◈ Contacto  
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x5368x)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NdtChxcaU8)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@xzn-q7n9q)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@x_536.8)
-
+  <a href="https://github.com/x5368x"><img src="https://img.shields.io/badge/GitHub-x5368x-1a1a1a?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+  <a href="https://discord.gg/NdtChxcaU8"><img src="https://img.shields.io/badge/Discord-x5368x-23272A?style=for-the-badge&logo=discord&logoColor=ffffff"/></a>
+  <a href="https://youtube.com/@xzn-q7n9q"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@x_536.8"><img src="https://img.shields.io/badge/TikTok-@x_536.8-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </div>
 
 ---
 
-## **💡 Mi Enfoque**  
+## ◈ Mi Enfoque  
 
 1. **Aprendizaje práctico**: Experimentar > Teorizar
 2. **Documentación**: Registrar cada solución encontrada
