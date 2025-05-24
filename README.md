@@ -51,11 +51,13 @@ Dotfiles:     Git-tracked & Modular
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': {'pie1':'#2B2D42','pie2':'#4A4E69','pie3':'#8D99AE'}}}%%
 pie showData
-    title "Distribución del enfoque"
-    "Arquitectura del sistema" : 45
-    "Personalización de WM" : 35
-    "Herramientas CLI" : 20
+    title "Focus Distribution"
+    "System Architecture" : 45
+    "WM Customization" : 35
+    "CLI Tooling" : 20
 ```
+
+<div style="background: white; padding: 25px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.03); border-top: 4px solid #2B2D42;">
 
 ---
 
