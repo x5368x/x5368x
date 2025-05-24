@@ -9,9 +9,7 @@
 
 </div>
 
-
-
-```
+---
 
 ## **📌 Sobre Mí**  
 <div align="center">
