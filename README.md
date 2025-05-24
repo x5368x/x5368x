@@ -101,36 +101,14 @@ Neovim      ██████████░░░░░░░░░░░░�
 
 ## **📩 Contacto**  
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/x5368x">
-        <img src="https://simpleicons.org/icons/github.svg" width="40" height="40"><br>
-        GitHub
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://discord.gg/NdtChxcaU8">
-        <img src="https://simpleicons.org/icons/discord.svg" width="40" height="40"><br>
-        Discord
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://youtube.com/@xzn-q7n9q">
-        <img src="https://simpleicons.org/icons/youtube.svg" width="40" height="40"><br>
-        YouTube
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.tiktok.com/@x_536.8">
-        <img src="https://simpleicons.org/icons/tiktok.svg" width="40" height="40"><br>
-        TikTok
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x5368x)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NdtChxcaU8)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@xzn-q7n9q)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@x_536.8)
+
+</div>
 
 ---
 
