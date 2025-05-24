@@ -76,7 +76,10 @@ Dotfiles:     Git-tracked & Modular
   + Creando scripts personalizados
   ```
 
-  [![Repositorio](https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github)](https://github.com/x5368x/HyprZent-v2)
+  <div align="center">
+  <a href="https://github.com/x5368x/HyprZent-v2">
+    <img src="https://img.shields.io/badge/Repositorio-HyprZent--v2-1a1a1a?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  </a>
 </div>
 
 ---
