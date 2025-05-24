@@ -1,16 +1,3 @@
-# <span style="color:#00ff99;">x5368x</span> — **Entusiasta Linux & Hyprland**
-
-<div align="center">
-
-![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-2d2d2d?style=for-the-badge&logo=archlinux&logoColor=00ffff)
-![Hyprland](https://img.shields.io/badge/WM-Hyprland-1a1a1a?style=for-the-badge&logo=wayland&logoColor=00ff99)
-![Shell](https://img.shields.io/badge/Shell-Zsh-3a3a3a?style=for-the-badge&logo=gnu-bash&logoColor=00ff99)
-![Editor](https://img.shields.io/badge/Editor-Neovim-121212?style=for-the-badge&logo=neovim&logoColor=39ff14)
-
-</div>
-
----
-
 <h1 align="center" style="color:#00ffcc;">
   x5368x — Linux Enthusiast | Hyprland Aesthetic
 </h1>
