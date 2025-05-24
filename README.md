@@ -46,17 +46,34 @@ Dotfiles:     Git-tracked & Modular
 
 ## ◈ Matriz Técnica
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin: 40px 0;">
-
-
-%%{init: {'theme':'base', 'themeVariables': {'pie1':'#2B2D42','pie2':'#4A4E69','pie3':'#8D99AE'}}}%%
-pie showData
-    title "Focus Distribution"
-    "System Architecture" : 45
-    "WM Customization" : 35
-    "CLI Tooling" : 20
-
-<div style="background: white; padding: 25px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.03); border-top: 4px solid #2B2D42;">
+<table align="center" style="width:100%; text-align:left; background:#1a1a1a; color:#e0e0e0; border-radius:8px; padding:12px;">
+  <tr>
+    <th style="padding:8px 12px;">Área</th>
+    <th style="padding:8px 12px;">Porcentaje</th>
+    <th style="padding:8px 12px;">Progreso</th>
+  </tr>
+  <tr>
+    <td style="padding:6px 12px;">System Architecture</td>
+    <td>45%</td>
+    <td>
+      <div style="background:#2B2D42; width:45%; height:12px; border-radius:6px;"></div>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:6px 12px;">WM Customization</td>
+    <td>35%</td>
+    <td>
+      <div style="background:#4A4E69; width:35%; height:12px; border-radius:6px;"></div>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:6px 12px;">CLI Tooling</td>
+    <td>20%</td>
+    <td>
+      <div style="background:#8D99AE; width:20%; height:12px; border-radius:6px;"></div>
+    </td>
+  </tr>
+</table>
 
 ### 𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦
 ```progressbar
